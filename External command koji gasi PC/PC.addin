@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">    
+    <Assembly>
+   PointCloudVisibility.dll
+    </Assembly>
+    <ClientId>C6A695BF-6E88-40C4-9F76-C232DAC7F668</ClientId>
+    <FullClassName>PointCloudVisibility.PCVis</FullClassName>
+    <Text>Point Cloud Visibility</Text>
+    <VendorId>ADSK</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
